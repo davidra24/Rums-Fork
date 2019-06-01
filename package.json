@@ -1,0 +1,36 @@
+{
+  "name": "Rums",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "i": "^0.3.6",
+    "react": "16.6.3",
+    "react-native": "^0.58.4",
+    "react-native-firebase": "^5.1.1",
+    "react-native-gesture-handler": "^1.0.12",
+    "react-native-google-signin": "^1.1.0",
+    "react-native-image-slider": "^2.0.3",
+    "react-native-phone-call": "^1.0.9",
+    "react-native-simple-toast": "0.0.8",
+    "react-navigation": "^3.0.9",
+    "react-redux": "^6.0.0",
+    "react-redux-firebase": "^2.2.6",
+    "react-timer-mixin": "^0.13.4",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.9.1",
+    "redux-react-firebase": "^2.6.1"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1070206000915",
+    "firebase_url": "https://rums-2597e.firebaseio.com",
+    "project_id": "rums-2597e",
+    "storage_bucket": "rums-2597e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070206000915:android:0a222978eccf6362",
+        "android_client_info": {
+          "package_name": "com.rums"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070206000915-6qccau34ev41suugn53seh72huf32umm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf2cSfBPbrXMe42IJcH1uP7VvxMU_bDHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
